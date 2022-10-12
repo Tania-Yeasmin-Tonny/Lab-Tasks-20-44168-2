@@ -1,0 +1,26 @@
+clc
+clear all
+close all
+
+K1=2; %volt
+K2=12; %volt
+
+
+f_1= 12; %hz
+f_2 = 13; %hz
+
+
+J1 = 32*(pi/180); %radian
+J2 = 30*(pi/180); %radian
+
+
+t_array1 = 0:1/1000:3*1/f_1;
+
+
+signal_1 = K1*cos(2*pi*t_array1*f_1+J1);
+signal_2 = K2*cos(2*pi*t_array1*f_1+J2);
+signal_3 = signal_1 + signal_2;
+
+
+plot(t_array1, signal_1, 'linewidth', 2)
+%figure

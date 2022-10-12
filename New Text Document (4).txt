@@ -1,0 +1,8 @@
+Project title: Automated Toll Collection System.
+No. of users: 4
+Type of users: [1] Drivers.   [2] Booth Agent.   [3] Admin.    [4] Guest.
+Features of users: Every user have to register and login. 
+Drivers--> Will pay toll, can view account information.
+Booth Agent--> Can view the statistics of toll and access own information as well as drivers' information.
+Admin--> Will be able to access everything including code structure. 
+Guest--> Can temporarily view the features. 
