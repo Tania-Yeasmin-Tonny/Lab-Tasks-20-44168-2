@@ -1,7 +1,0 @@
-
-In other methodologies, acquiring requirements is given a lot of weight during the project's initial stage. 
-Scrum, on the other hand, emphasizes providing the client with incremental commercial value. It allows for the early beginning of the development phase and more flexibility in requirements collecting. All requirements must be well specified, however, this does not always mean that all have to be defined at the start of the project.  Changes requested by the client may be incorporated in the following iteration. Additionally, the product owner may alter the priority and keep developing the features in each iteration that have the greatest business value for the client.
-
-
-
-https://github.com/Tania-Yeasmin-Tonny
